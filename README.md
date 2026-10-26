@@ -6,9 +6,9 @@ run `cargo run` to build and run the command.\
 It will display the output results and create a file named `output.csv` that also contains the data.\
 There is a number of flags you can use when using the command:
 ```
-Usage: jaundice_lynx [OPTIONS]                                                                                                                                                                                                              
-                                                                                                                                                                                                                                            
-Options:                                                                                                                                                                                                                                    
+Usage: jaundice_lynx [OPTIONS]
+
+Options:
       --start-hares <START_HARES>        [default: 0]
       --start-lynx <START_LYNX>          [default: 0]
       --min-hares <MIN_HARES>            [default: 3]
